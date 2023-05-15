@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/issh.iml" filepath="$PROJECT_DIR$/.idea/issh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/essh.iml" filepath="$PROJECT_DIR$/.idea/essh.iml" />
     </modules>
   </component>
 </project>
