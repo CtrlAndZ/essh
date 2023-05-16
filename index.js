@@ -66,6 +66,7 @@ program.argument('<alias>')
             .shell(sshObj.host, {
                 username: sshObj.username,
                 password: sshObj.password,
+                port: sshObj.port,
                 promptPassword : true
             })
             .catch(function onError(err) {

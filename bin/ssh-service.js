@@ -35,7 +35,8 @@ function get(alias) {
  */
 function all() {
     let file = fs.readFileSync(sshListFilePath, { encoding: 'utf-8' })
-    return yaml.parse(file) | {}
+    let allObj = yaml.parse(file)
+    return allObj && allObj != null ? allObj : {}
 }
 
 /**
