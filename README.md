@@ -1,4 +1,6 @@
-# ESSH
+<p align="center">
+<img src="https://cdn.staticaly.com/gh/CtrlAndZ/imgded@main/blog/_9120e850-32c9-432d-9c6e-4cffefeb73e7.png" style="width:25%;" />
+</p>
 
 ## 一款轻量级的命令行ssh管理工具
 只是负责管理命令的ssh连接信息，提供通过别名的方式快速访问对应的服务器，而不需要繁琐的输入用户名、host和密码
